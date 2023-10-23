@@ -1,1 +1,16 @@
 # System-Analysis-and-Design
+
+**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
+The DriverPass project is an application that tracks students' progress through their driving experience. The DriverPass system allows students to schedule appointments, reservations for driving, select their driving instructors, and select learning courses for their continued driving experience in an academic manner. 
+
+**What did you do particularly well?**
+I believe I did rather well with the business requirements of the DriverPass system. I successfully captured most of the required aspects of the system including the functional and non-functional requirements and specifications of the system. I also successfully collected the technical impacts and constraints associated with the DriverPass application.
+
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
+If I could choose one part of my work on these documents to revise, I would choose to revise the diagrams associated with project two. I feel like there was more to capture in the diagrams that I didn't have quite enough time to correctly capture, and I could have been more detailed in the path I chose to diagram.
+
+**How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
+I interpreted the user's needs and implemented them into my system design by gathering the clarifying answers that were provided in the DriverPass summary. I read through the meeting summary and collected all of the required features that were requested by the client and incorporated those features into my system design. It is extremely important to consider the user's needs when designing because you want to create a product that users will be happy using. You want to take user feedback into consideration when working on system designs because you can capture many different aspects to the system that you never though about or knew to incorporate into the design. With the provided user needs, you can create a product that will excel over the competition of other applications, programs, or designs.
+
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
+I like to approach designing software by collecting all of the requirements and specifications of the project I am working on before I begin designing. This is done by asking potential clients clarifying questions on what requirements they think the system will need to function properly and which specifications for the system will make a reliable and functional product. For future analysis and designs of a system I am working, I will incorporate several of the techniques that I learned during this course. I will analyze requirements that are captured from the user baseline and incorporate those needs with continuous feedback from the users for progress checks. I will also implement UML diagrams with my design in order to capture all of the potential specifications of the system that I am designing in order to ensure I am creating a functional and adequate product that people will prefer using in it's intended manner.
